@@ -2,4 +2,4 @@
 Create A Responsive Image Slider in HTML CSS & JavaScript
 
 ![preview do site](images/preview.png)
-acesse: https://sonaite.github.io/Projeto-interactive-slide/
+ https://sonaite.github.io/Projeto-interactive-slide/
